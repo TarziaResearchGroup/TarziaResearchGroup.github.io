@@ -1,0 +1,10 @@
+---
+permalink: /
+title: "Latest news"
+author_profile: true
+redirect_from: 
+  - /news/
+  - /news.html
+---
+
+Under development.
