@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /members/
 title: "Who we are"
 author_profile: true
 redirect_from: 
