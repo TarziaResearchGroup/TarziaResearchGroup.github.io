@@ -23,13 +23,13 @@ repository               : "TarziaResearchGroup/TarziaResearchGroup.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "trg."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Computational supramolecular chemistry"
+  location         : "Birmingham, UK"
+  employer         : "University of Birmingham"
   uri              : # URL
-  email            : "none@example.org" 
+  email            :  
 
   # Academic websites
   academia         : # URL
