@@ -4,6 +4,9 @@ title: "What we do"
 author_profile: true
 ---
 
+See blog posts on [my personal website](https://andrewtarzia.github.io/year-archive/).
+
+
 ## structure generation of (supra)molecular materials
 
 I am a developer of [<i>stk</i>](https://github.com/lukasturcani/stk) for the generation of molecular and periodic material structures. I recently put together a play list of tutorials on <i>stk</i> usage: [<i>stk</i> tutorials](https://www.youtube.com/watch?v=mPr9D7nCQ84&list=PLIWYdPQ9hLzVngMF8NOkiApMtgc_ZwZgO) and have some examples of <i>stk</i> usage [here](https://github.com/andrewtarzia/stk-examples).
