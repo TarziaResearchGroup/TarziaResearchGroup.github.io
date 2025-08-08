@@ -5,7 +5,6 @@ title: "Who we are"
 author_profile: true
 ---
 
-| Item         | Price | # In stock |
-|--------------|:-----:|-----------:|
-| Juicy Apples |  1.99 |        739 |
-| Bananas      |  1.89 |          6 |
+<div style="text-align: left"> your-text-here </div>
+
+<div style="text-align: right"> your-text-here </div>
