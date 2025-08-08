@@ -19,3 +19,9 @@ main:
     
   - title: "Opportunities"
     url: /ops/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Outreach"
+    url: /outreach/
