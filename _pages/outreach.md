@@ -1,9 +1,16 @@
 ---
 layout: archive
-title: "Outreach"
+title: "Outreach and Workshops"
 permalink: /outreach/
 author_profile: true
 ---
+
+* Workshops provided by **trg**:
+  * 2024:
+    * Software best practices and coding workshop for the Pavan Lab
+    * *stk* tutorial for PhD. student from UniTo
+  * 2025:
+    * *stk* and Python kick start for Slater group
 
 * DigiFab 2021 Datathon / FoNS / Imperial College London :
 
