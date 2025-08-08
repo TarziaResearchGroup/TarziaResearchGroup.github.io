@@ -55,27 +55,27 @@ for conformer in ensemble.yield_conformers():
 [<i>stko</i>](https://github.com/JelfsMaterialsGroup/stko) contains wrappers for optimisation and property calcualtion of <i>stk</i> molecules.
 The [documentation](https://stko-docs.readthedocs.io/) contains recipes and tutorials.
 
-I have also developed some low-cost Monte Carlo-based algorithms for optimisation <i>stk</i> molecule optimisation ([MCHammer](https://github.com/andrewtarzia/MCHammer)) and host-guest conformer generation/optimisation ([SpinDry](https://github.com/andrewtarzia/SpinDry)).
+I have also developed some low-cost Monte Carlo-based algorithms for optimisation _stk_ molecule optimisation ([_MCHammer_](https://github.com/andrewtarzia/MCHammer)) and host-guest conformer generation/optimisation ([_SpinDry_](https://github.com/andrewtarzia/SpinDry)).
 
 ### Visualising molecular pores
 
-[PoreMapper](https://github.com/andrewtarzia/PoreMapper) is a very efficient way to map the inside of a molecular pore for visualisation and analysis. See a blog post [here](https://andrewtarzia.github.io/posts/2021/11/poremapper-post/).
+[_PoreMapper_](https://github.com/andrewtarzia/PoreMapper) is a very efficient way to map the inside of a molecular pore for visualisation and analysis. See a blog post [here](https://andrewtarzia.github.io/posts/2021/11/poremapper-post/).
 
 
 ## Coarse-grained structure generation
 
-[<i>cgx<\i>](https://github.com/andrewtarzia/CGExplore) is a library for using <i>stk</i> with coarse-grained molecules to afford more efficient high-throughput screening and rational design. This library is under-development but it's first usage is written up [here](https://chemrxiv.org/engage/chemrxiv/article-details/64c7aed1658ec5f7e57cf4d8).
+[_cgx_](https://github.com/andrewtarzia/CGExplore) is a library for using _stk_ with coarse-grained molecules to afford more efficient high-throughput screening and rational design. This library is under-development but it's first usage is written up [here](https://chemrxiv.org/engage/chemrxiv/article-details/64c7aed1658ec5f7e57cf4d8).
 
 ### Databases of toy-model material space
 
-While the [<i>cgx<\i>](https://cgexplore.readthedocs.io/en/latest/) documentation holds examples and tutorials for usage, we also publish our toy-model landscapes on [cgmodels](https://cgmodels.readthedocs.io/en/latest/), which are explorable using [chemiscope](https://chemiscope.org).
+While the [_cgx_](https://cgexplore.readthedocs.io/en/latest/) documentation holds examples and tutorials for usage, we also publish our toy-model landscapes on [_cgmodels_](https://cgmodels.readthedocs.io/en/latest/), which are explorable using [_chemiscope_](https://chemiscope.org).
 
 
 ## Calculating molecular size
 
-[mol-ellipsize](https://github.com/andrewtarzia/mol-ellipsize) is an efficient method for calculating molecular size based on fitting an ellipsoid to the vdw cloud of a molecule. Examples are provided within the github repository. See a blog post [here](https://andrewtarzia.github.io/posts/2022/01/molellipsize-post/).
+[_mol-ellipsize_](https://github.com/andrewtarzia/mol-ellipsize) is an efficient method for calculating molecular size based on fitting an ellipsoid to the vdw cloud of a molecule. Examples are provided within the github repository. See a blog post [here](https://andrewtarzia.github.io/posts/2022/01/molellipsize-post/).
 
 ## Interpreting and analysing dynamic trajectories
 
-[dynsight](https://github.com/GMPavanLab/dynsight) is a software package Andrew manages the development of in collaboration with the Pavan Lab.
+[_dynsight_](https://github.com/GMPavanLab/dynsight) is a software package Andrew manages the development of in collaboration with the Pavan Lab.
 This software is working toward streamlining the analysis of trajectories of particles.
