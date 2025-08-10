@@ -17,15 +17,6 @@ A significant part of this is the development of new software ecosystems that ar
 ![Components in molecular materials design](/assets/research_schematic_aprofuob_1.png)
 
 
-<> <details>
-<>   <summary>
-<>      <p style="font-size:20px; display:inline">Structure generation of (supra)molecular materials</p>
-<>   </summary>
-<>   <p>
-<>      We continue to develop an ecosystem built around the work done by Andrew in <a href="https://github.com/lukasturcani/stk"><> <i>stk</i></a> for generating molecular and periodic structures. Find tutorials: <a href="https://www.youtube.com/watch?v=mPr9D7nCQ84&list=PLIWYdPQ9hLzVngMF8NOkiApMtgc_ZwZgO"><i>stk</i> tutorial videos</a> and <a href="https://github.com/andrewtarzia/stk-examples">code</a>.
-<>   </p>
-<> </details>
-
 ## Structure generation of (supra)molecular materials
 
 We continue to develop an ecosystem built around the work done by Andrew in [<i>stk</i>](https://github.com/lukasturcani/stk) for generating molecular and periodic structures. Find tutorials: [<i>stk</i> tutorial videos](https://www.youtube.com/watch?v=mPr9D7nCQ84&list=PLIWYdPQ9hLzVngMF8NOkiApMtgc_ZwZgO) and [code](https://github.com/andrewtarzia/stk-examples).
