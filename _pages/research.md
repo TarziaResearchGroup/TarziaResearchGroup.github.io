@@ -8,20 +8,28 @@ See blog posts on [Andrew's personal website](https://andrewtarzia.github.io/yea
 
 Code snippets and recipes are also available on [GitHub Gists](https://gist.github.com/andrewtarzia).
 
-<details>
-   <summary>
-      <p style="font-size:20px; display:inline">Structure generation of (supra)molecular materials</p>
-   </summary>
-   <p>
-      We continue to develop an ecosystem built around the work done by Andrew in <a href="https://github.com/lukasturcani/stk"><i>stk</i></a> for generating molecular and periodic structures. Find tutorials: <a href="https://www.youtube.com/watch?v=mPr9D7nCQ84&list=PLIWYdPQ9hLzVngMF8NOkiApMtgc_ZwZgO"><i>stk</i> tutorial videos</a> and <a href="https://github.com/andrewtarzia/stk-examples">code</a>.
-   </p>
-</details>
+
+## Low-cost computational tools and robust software for decision-making
+
+We are working toward bridging the gap between how computational tools are used in chemical and materials design processes.
+A significant part of this is the development of new software ecosystems that are FAIR and easy-to-use by researchers of various expertises.
+
+![Components in molecular materials design](/assets/research_schematic_aprofuob_1.png)
 
 
+<> <details>
+<>   <summary>
+<>      <p style="font-size:20px; display:inline">Structure generation of (supra)molecular materials</p>
+<>   </summary>
+<>   <p>
+<>      We continue to develop an ecosystem built around the work done by Andrew in <a href="https://github.com/lukasturcani/stk"><> <i>stk</i></a> for generating molecular and periodic structures. Find tutorials: <a href="https://www.youtube.com/watch?v=mPr9D7nCQ84&list=PLIWYdPQ9hLzVngMF8NOkiApMtgc_ZwZgO"><i>stk</i> tutorial videos</a> and <a href="https://github.com/andrewtarzia/stk-examples">code</a>.
+<>   </p>
+<> </details>
 
 ## Structure generation of (supra)molecular materials
 
 We continue to develop an ecosystem built around the work done by Andrew in [<i>stk</i>](https://github.com/lukasturcani/stk) for generating molecular and periodic structures. Find tutorials: [<i>stk</i> tutorial videos](https://www.youtube.com/watch?v=mPr9D7nCQ84&list=PLIWYdPQ9hLzVngMF8NOkiApMtgc_ZwZgO) and [code](https://github.com/andrewtarzia/stk-examples).
+
 
 
 ### Preparing building blocks for structure generation
@@ -73,14 +81,16 @@ I have also developed some low-cost Monte Carlo-based algorithms for optimisatio
 
 [_PoreMapper_](https://github.com/andrewtarzia/PoreMapper) is a very efficient way to map the inside of a molecular pore for visualisation and analysis. See a blog post [here](https://andrewtarzia.github.io/posts/2021/11/poremapper-post/).
 
-
 ## Coarse-grained structure generation
 
 [_cgx_](https://github.com/andrewtarzia/CGExplore) is a library for using _stk_ with coarse-grained molecules to afford more efficient high-throughput screening and rational design. This library is under-development but it's first usage is written up [here](https://chemrxiv.org/engage/chemrxiv/article-details/64c7aed1658ec5f7e57cf4d8).
 
+
 ### Databases of toy-model material space
 
 While the [_cgx_](https://cgexplore.readthedocs.io/en/latest/) documentation holds examples and tutorials for usage, we also publish our toy-model landscapes on [_cgmodels_](https://cgmodels.readthedocs.io/en/latest/), which are explorable using [_chemiscope_](https://chemiscope.org).
+
+## Exploring host-guest system design at low-cost
 
 
 ## Calculating molecular size
