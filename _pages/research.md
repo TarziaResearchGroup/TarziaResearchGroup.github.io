@@ -30,7 +30,9 @@ A significant part of this is the development of new software ecosystems that ar
 
 We continue to develop an ecosystem built around the work done by Andrew in [<i>stk</i>](https://github.com/lukasturcani/stk) for generating molecular and periodic structures. Find tutorials: [<i>stk</i> tutorial videos](https://www.youtube.com/watch?v=mPr9D7nCQ84&list=PLIWYdPQ9hLzVngMF8NOkiApMtgc_ZwZgO) and [code](https://github.com/andrewtarzia/stk-examples).
 
+### Using coarse-grained and minimal models
 
+[_cgx_](https://github.com/andrewtarzia/CGExplore) is a library for using _stk_ with coarse-grained molecules to afford more efficient high-throughput screening and rational design. This library is under-development but it's first usage is written up [here](https://chemrxiv.org/engage/chemrxiv/article-details/64c7aed1658ec5f7e57cf4d8).
 
 ### Preparing building blocks for structure generation
 
@@ -80,10 +82,6 @@ I have also developed some low-cost Monte Carlo-based algorithms for optimisatio
 ### Visualising molecular pores
 
 [_PoreMapper_](https://github.com/andrewtarzia/PoreMapper) is a very efficient way to map the inside of a molecular pore for visualisation and analysis. See a blog post [here](https://andrewtarzia.github.io/posts/2021/11/poremapper-post/).
-
-## Coarse-grained structure generation
-
-[_cgx_](https://github.com/andrewtarzia/CGExplore) is a library for using _stk_ with coarse-grained molecules to afford more efficient high-throughput screening and rational design. This library is under-development but it's first usage is written up [here](https://chemrxiv.org/engage/chemrxiv/article-details/64c7aed1658ec5f7e57cf4d8).
 
 
 ### Databases of toy-model material space
