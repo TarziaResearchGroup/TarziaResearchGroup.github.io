@@ -8,9 +8,21 @@ See blog posts on [Andrew's personal website](https://andrewtarzia.github.io/yea
 
 Code snippets and recipes are also available on [GitHub Gists](https://gist.github.com/andrewtarzia).
 
+<details>
+<summary>
+   Structure generation of (supra)molecular materials 
+</summary>
+    <p>
+    We continue to develop an ecosystem built around the work done by Andrew in [<i>stk</i>](https://github.com/lukasturcani/stk) for generating molecular and periodic structures. Find tutorials: [<i>stk</i> tutorial videos](https://www.youtube.com/watch?v=mPr9D7nCQ84&list=PLIWYdPQ9hLzVngMF8NOkiApMtgc_ZwZgO) and [code](https://github.com/andrewtarzia/stk-examples).
+    </p>
+</details>
+
+
+
 ## Structure generation of (supra)molecular materials
 
 We continue to develop an ecosystem built around the work done by Andrew in [<i>stk</i>](https://github.com/lukasturcani/stk) for generating molecular and periodic structures. Find tutorials: [<i>stk</i> tutorial videos](https://www.youtube.com/watch?v=mPr9D7nCQ84&list=PLIWYdPQ9hLzVngMF8NOkiApMtgc_ZwZgO) and [code](https://github.com/andrewtarzia/stk-examples).
+
 
 ### Preparing building blocks for structure generation
 
