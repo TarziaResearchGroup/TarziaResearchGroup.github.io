@@ -19,7 +19,7 @@ A significant part of this is the development of new software ecosystems that ar
 
 ## Structure generation of (supra)molecular materials
 
-We continue to develop an ecosystem built around the work done by Andrew in [<i>stk</i>](https://github.com/lukasturcani/stk) for generating molecular and periodic structures. Find tutorials: [<i>stk</i> tutorial videos](https://www.youtube.com/watch?v=mPr9D7nCQ84&list=PLIWYdPQ9hLzVngMF8NOkiApMtgc_ZwZgO) and [code](https://github.com/andrewtarzia/stk-examples).
+We continue to develop an ecosystem built around the work done by Andrew in [_stk_](https://github.com/lukasturcani/stk) for generating molecular and periodic structures. Find tutorials: [_stk_ tutorial videos](https://www.youtube.com/watch?v=mPr9D7nCQ84&list=PLIWYdPQ9hLzVngMF8NOkiApMtgc_ZwZgO) and [code](https://github.com/andrewtarzia/stk-examples).
 
 ### Using coarse-grained and minimal models
 
@@ -27,7 +27,7 @@ We continue to develop an ecosystem built around the work done by Andrew in [<i>
 
 ### Preparing building blocks for structure generation
 
-[bbprepared](https://github.com/andrewtarzia/bbprepared) contains algorithms and tests for preparing building blocks for <i>stk</i> usage. [Here](https://youtu.be/dbQwhlpf5Jc) is a video on its usage. The [documentation](https://bbprepared.readthedocs.io/en/latest/) contains useful recipes and examples, such as finding the lowest energy conformer:
+[_bbprepared_](https://github.com/andrewtarzia/bbprepared) contains algorithms and tests for preparing building blocks for _stk_ usage. [Here](https://youtu.be/dbQwhlpf5Jc) is a video on its usage. The [documentation](https://bbprepared.readthedocs.io/en/latest/) contains useful recipes and examples, such as finding the lowest energy conformer:
 
 ```python
 import stk
@@ -65,7 +65,7 @@ for conformer in ensemble.yield_conformers():
 
 ### Optimising structures
 
-[<i>stko</i>](https://github.com/JelfsMaterialsGroup/stko) contains wrappers for optimisation and property calcualtion of <i>stk</i> molecules.
+[_stko_](https://github.com/JelfsMaterialsGroup/stko) contains wrappers for optimisation and property calcualtion of _stk_ molecules.
 The [documentation](https://stko-docs.readthedocs.io/) contains recipes and tutorials.
 
 I have also developed some low-cost Monte Carlo-based algorithms for optimisation _stk_ molecule optimisation ([_MCHammer_](https://github.com/andrewtarzia/MCHammer)) and host-guest conformer generation/optimisation ([_SpinDry_](https://github.com/andrewtarzia/SpinDry)).
