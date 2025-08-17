@@ -12,7 +12,7 @@ Code snippets and recipes are also available on [GitHub Gists](https://gist.gith
 ## Low-cost computational tools and robust software for decision-making
 
 We are working toward bridging the gap between how computational tools are used in chemical and materials design processes.
-A significant part of this is the development of new software ecosystems that are FAIR and easy-to-use by researchers of various expertises.
+A significant part of this is the development of new software ecosystems that are FAIR and easy-to-use by researchers of various expertise.
 
 ![Components in molecular materials design](/assets/research_schematic_aprofuob_1.png)
 
