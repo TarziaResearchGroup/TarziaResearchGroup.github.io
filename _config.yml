@@ -23,9 +23,9 @@ repository               : "TarziaResearchGroup/TarziaResearchGroup.github.io"
 author:
   # Biographic information
   avatar           : "logo.png"
-  name             : "trg."
+  name             : "Computational supramolecular chemistry group"
   pronouns         : # example: "she/her"  
-  bio              : "Computational supramolecular chemistry"
+  bio              : 
   location         : 
   employer         : "University of Birmingham"
   uri              : 
