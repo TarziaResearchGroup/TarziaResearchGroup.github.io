@@ -9,10 +9,34 @@ author_profile: true
   <div class="wordwrap">You can also find our articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+
+{% include base_path %}
+
 <br>
 <br>
 
-{% include base_path %}
+<h2>Preprints</h2>
+<br>
+
+{% for work in site.data.preprints %}
+  <div id="container">
+    <div id="left">
+        <b>{{ forloop.rindex }}.</b>
+        {{ work.title }}
+        {{ work.authors }}.<br>
+        <i>{{ work.journal }}</i>. <a href="{{ work.url }}">DOI</a>. <i>{{ work.other }}</i>
+        <br>
+    </div>
+    <div class="clear"></div>
+  </div>
+  <hr>
+{% endfor %}
+
+<br>
+<br>
+
+<h2>Peer-reviewed</h2>
+<br>
 
 {% for work in site.data.publications %}
   <div id="container">
