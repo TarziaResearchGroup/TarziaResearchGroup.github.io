@@ -9,7 +9,7 @@
 
 main:
   - title: "Group"
-    url: /members/
+    url: /group/
     
   - title: "Research & Software"
     url: /research/
