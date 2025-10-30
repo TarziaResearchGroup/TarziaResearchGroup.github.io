@@ -19,9 +19,6 @@ main:
     
   - title: "Opportunities"
     url: /ops/
-
-  - title: "Student Projects"
-    url: /student_projects/
     
   - title: "Publications"
     url: /publications/
