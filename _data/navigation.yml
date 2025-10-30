@@ -14,12 +14,12 @@ main:
   - title: "Research & Software"
     url: /research/
 
-  - title: "News & Outreach"
-    url: /news-archive/
-    
   - title: "Opportunities"
     url: /ops/
     
+  - title: "News & Outreach"
+    url: /news-archive/
+
   - title: "Publications"
     url: /publications/
     
