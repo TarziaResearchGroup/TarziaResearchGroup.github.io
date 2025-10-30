@@ -14,7 +14,7 @@ main:
   - title: "Research & Software"
     url: /research/
 
-  - title: "News"
+  - title: "News & Outreach"
     url: /news-archive/
     
   - title: "Opportunities"
@@ -22,6 +22,4 @@ main:
     
   - title: "Publications"
     url: /publications/
-
-  - title: "Outreach"
-    url: /outreach/
+    
