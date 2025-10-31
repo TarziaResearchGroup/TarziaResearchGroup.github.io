@@ -40,9 +40,8 @@ import bbprep
 building_block = stk.BuildingBlock(smiles="C1=CC=NC(=C1)C=NBr")
 
 # This uses the rdkit conformer generation.
-ensemble = bbprep.generators.ETKDG(num_confs=100).generate_conformers(
-    building_block
-)
+generator = bbprep.generators.ETKDG(num_confs=100)
+ensemble = generator.generate_conformers(building_block)
 
 # Iterate over ensemble.
 minimum_score = 1e24
