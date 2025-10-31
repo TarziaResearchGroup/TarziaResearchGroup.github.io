@@ -4,7 +4,7 @@ title: "Opportunities"
 author_profile: true
 ---
 
-Student positions can be found in [student_projects](/student_projects/).
+Explanation of research for possible student positions can be found in [student_projects](/student_projects/).
 
 We will advertise PhD studentships and postdoctoral positions here when they are available. If you are interested in joining us and potentially applying for independant funding, please see the list below or reach out: a.tarzia@bham.ac.uk
 
