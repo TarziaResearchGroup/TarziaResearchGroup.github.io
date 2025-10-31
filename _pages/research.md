@@ -6,6 +6,8 @@ author_profile: true
 
 See blog posts on [Andrew's personal website](https://andrewtarzia.github.io/year-archive/).
 
+Explanation of research for possible student positions can be found in [student_projects](/student_projects/).
+
 Code snippets and recipes are also available on [GitHub Gists](https://gist.github.com/andrewtarzia).
 
 
