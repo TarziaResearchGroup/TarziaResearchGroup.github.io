@@ -23,7 +23,10 @@ We continue to develop an ecosystem built around the work done by Andrew in [_st
 
 ### Using coarse-grained and minimal models
 
-[_cgx_](https://github.com/andrewtarzia/CGExplore) is a library for using _stk_ with coarse-grained molecules to afford more efficient high-throughput screening and rational design. This library is under-development but it's first usage is written up [here](https://chemrxiv.org/engage/chemrxiv/article-details/64c7aed1658ec5f7e57cf4d8).
+[_cgx_](https://github.com/andrewtarzia/CGExplore) is a library for using _stk_ with coarse-grained molecules to afford more efficient high-throughput screening and rational design. This library is under-development but it's first usage is written up [here](https://pubs.rsc.org/en/content/articlehtml/2023/sc/d3sc03991a).
+
+We recently introduced the use of minimal model and atomistic model structure prediction with __cgx__ in two works: firstly, predicting [starhsips](https://doi.org/10.1016/j.chempr.2025.102780) and then a series of [case studies](https://chemrxiv.org/engage/chemrxiv/article-details/68f0ef40bc2ac3a0e051be52).
+
 
 ### Preparing building blocks for structure generation
 
@@ -89,4 +92,4 @@ While the [_cgx_](https://cgexplore.readthedocs.io/en/latest/) documentation hol
 ## Interpreting and analysing dynamic trajectories
 
 [_dynsight_](https://github.com/GMPavanLab/dynsight) is a software package Andrew manages the development of in collaboration with the Pavan Lab.
-This software is working toward streamlining the analysis of trajectories of particles.
+This software is working toward streamlining the analysis of trajectories of particles. A recent write up can be found [here](https://arxiv.org/abs/2510.23493)
