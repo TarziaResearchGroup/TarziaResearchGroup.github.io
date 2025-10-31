@@ -12,6 +12,7 @@ div.highlighter-rouge, figure.highlight {
   box-shadow: $box-shadow;
   font-size: $type-size-4;
 
+/*
   &:before {
     position: absolute;
     top: 0;
@@ -25,7 +26,7 @@ div.highlighter-rouge, figure.highlight {
     text-transform: none;
     speak: none;
   }
-
+*/
   .highlight {
     margin: 0;
     font-family: $monospace;
