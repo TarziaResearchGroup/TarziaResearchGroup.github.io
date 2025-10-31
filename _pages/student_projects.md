@@ -6,7 +6,6 @@ author_profile: true
 
 We are keen to host undergraduate and postgraduate students from different disciplines and with different project durations, includingMasters by research (MRes) applications.
 The projects we offer are adaptable to the student's interests/strength, ranging from data-driven work, chemical design and computational modelling/workflow development.
-We are
 Please get in touch with Andrew if you are interested, and we can work on tailoring the below scientific questions/problems to the length of your project to have well-defined aims and achieve your career development goals.
 
 We are developing computational chemistry workflows for structure and property prediction (here are some example papers, with a focus on the chemistry: [chemrxiv](https://chemrxiv.org/engage/chemrxiv/article-details/68f0ef40bc2ac3a0e051be52), [wiley](https://onlinelibrary.wiley.com/doi/10.1002/anie.202106721)).
