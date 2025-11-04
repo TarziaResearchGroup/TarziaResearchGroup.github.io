@@ -30,4 +30,4 @@ It is a fully funded 3.5 years PhD position in software and computational tool d
 
 
 If you are interested, please reach out and we can support an application!
-Find more information on Andrew's [School of Chemistry staff profile](https://www.birmingham.ac.uk/staff/profiles/chemistry/dr-andrew-tarzia).
+Find more information on Andrew's [School of Chemistry staff profile](https://www.birmingham.ac.uk/staff/profiles/chemistry/tarzia-andrew).
