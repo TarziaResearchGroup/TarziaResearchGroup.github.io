@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the website for the Tarzia Research Group working in the space of computational supramolecular chemistry at the [University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/chemistry/dr-andrew-tarzia).
+Welcome to the website for the Tarzia Research Group working in the space of computational supramolecular chemistry at the [University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/chemistry/tarzia-andrew).
 
 If you are interested in a workshop or tutorial on using our software, please email us!
 
