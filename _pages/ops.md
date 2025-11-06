@@ -13,6 +13,8 @@ We will advertise PhD studentships and postdoctoral positions here when they are
 We have a PhD position open on [Find A PhD](https://www.findaphd.com/phds/project/computational-design-of-adaptable-supramolecular-materials/?p187266). 
 It is a fully funded 3.5 years PhD position in software and computational tool development for sustainable supramolecular materials design and there is no closing date, but please apply ASAP as the position will be filled when the right candidate is found. Interested applicants should email Andrew with any questions, a CV and cover letter summarising your research interests and suitability for the position.
 
+PhD positions at UoB can be applied for [here](https://www.birmingham.ac.uk/study/postgraduate/research/how-to-apply/advertised-phd)
+
 ## External funding for postdocs
 
 - [Marie Sklodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu) postdoctoral fellowships
