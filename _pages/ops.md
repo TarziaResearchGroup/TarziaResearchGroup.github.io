@@ -8,6 +8,18 @@ Explanation of research for possible student positions can be found in [student_
 
 We will advertise PhD studentships and postdoctoral positions here when they are available. If you are interested in joining us and potentially applying for independant funding, please see the list below or reach out: a.tarzia@bham.ac.uk
 
+## Birmingham Chemistry PhD Scholarships 2026
+
+The School of Chemistry is delighted to offer a number of doctoral scholarships to outstanding candidates. 
+These scholarships are open to all fields of chemistry. Each fully funded scholarship is for 3.5 years full-time study and covers academic fees and a maintenance grant in line with the UK Research Innovation rate. These scholarships are available for UK and international students. 
+
+**Closing date for application is midnight 1st February 2026**. 
+
+The scholarship must start by the first week of the Birmingham academic term (28th Sept. 2026).
+
+Please contact Andrew if you are interested!
+
+
 ## Open positions
 
 We have a PhD position open on [Find A PhD](https://www.findaphd.com/phds/project/computational-design-of-adaptable-supramolecular-materials/?p187266). 
