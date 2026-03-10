@@ -94,3 +94,6 @@ While the [_cgx_](https://cgexplore.readthedocs.io/en/latest/) documentation hol
 
 [_dynsight_](https://github.com/GMPavanLab/dynsight) is a software package Andrew manages the development of in collaboration with the Pavan Lab.
 This software is working toward streamlining the analysis of trajectories of particles. A recent write up can be found [here](https://arxiv.org/abs/2510.23493)
+
+
+View the code for this page in [research.md](https://github.com/TarziaResearchGroup/TarziaResearchGroup.github.io/tree/master/_pages).
