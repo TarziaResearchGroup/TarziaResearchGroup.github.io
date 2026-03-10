@@ -4,10 +4,14 @@ title: "Opportunities"
 author_profile: true
 ---
 
-Explanation of research for possible student positions can be found in [student_projects](/student_projects/).
+An explanation of our research for possible student positions can be found in [student_projects](/student_projects/).
 
-We will advertise PhD studentships and postdoctoral positions here when they are available. If you are interested in joining us and potentially applying for independant funding, please see the list below or reach out: a.tarzia@bham.ac.uk
+We will advertise PhD studentships and postdoctoral positions here when they are available.
 
+If you are interested in joining us and potentially applying for independant funding, please see the list below or reach out: a.tarzia@bham.ac.uk
+Find more information on Andrew's [School of Chemistry staff profile](https://www.birmingham.ac.uk/staff/profiles/chemistry/tarzia-andrew).
+
+<!---
 ## Birmingham Chemistry PhD Scholarships 2026
 
 The School of Chemistry is delighted to offer a number of doctoral scholarships to outstanding candidates. 
@@ -18,7 +22,7 @@ These scholarships are open to all fields of chemistry. Each fully funded schola
 The scholarship must start by the first week of the Birmingham academic term (28th Sept. 2026).
 
 Please contact Andrew if you are interested!
-
+-->
 
 ## Open positions
 
@@ -40,5 +44,6 @@ PhD positions at UoB can be applied for [here](https://www.birmingham.ac.uk/stud
 - National funding opportunities (specific to the candidate's country of origin)
 
 
-If you are interested, please reach out and we can support an application!
-Find more information on Andrew's [School of Chemistry staff profile](https://www.birmingham.ac.uk/staff/profiles/chemistry/tarzia-andrew).
+
+
+View the code for this page in [ops.md](https://github.com/TarziaResearchGroup/TarziaResearchGroup.github.io/tree/master/_pages).
