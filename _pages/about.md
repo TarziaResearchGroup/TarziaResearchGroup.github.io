@@ -11,4 +11,4 @@ Welcome to the website for the Tarzia Research Group working in the space of com
 
 If you are interested in a workshop or tutorial on using our software, please email us!
 
-View the code for this site [here](https://github.com/TarziaResearchGroup/TarziaResearchGroup.github.io/_pages/about.md).
+View the code for this page in [about.md](https://github.com/TarziaResearchGroup/TarziaResearchGroup.github.io/tree/master/_pages).
