@@ -10,6 +10,8 @@ Please get in touch with Andrew if you are interested, and we can work on tailor
 
 We are developing computational chemistry workflows for structure and property prediction (here are some example papers, with a focus on the chemistry: [chemrxiv](https://chemrxiv.org/engage/chemrxiv/article-details/68f0ef40bc2ac3a0e051be52), [wiley](https://onlinelibrary.wiley.com/doi/10.1002/anie.202106721)).
 
+![Themes of our research](/assets/trg_intro_v1.png)
+
 Some broad spaces to work in:
 
 - Computational chemistry software development
