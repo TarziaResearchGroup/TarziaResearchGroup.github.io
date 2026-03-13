@@ -4,19 +4,22 @@ title: "What we do"
 author_profile: true
 ---
 
-See blog posts on [Andrew's personal website](https://andrewtarzia.github.io/year-archive/).
-
-Explanation of research for possible student positions can be found in [student_projects](/student_projects/).
-
-Code snippets and recipes are also available on [GitHub Gists](https://gist.github.com/andrewtarzia).
-
-
 ## Low-cost computational tools and robust software for decision-making
 
 We are working toward bridging the gap between how computational tools are used in chemical and materials design processes.
 A significant part of this is the development of new software ecosystems that are FAIR and easy-to-use by researchers of various expertise.
 
 ![Components in molecular materials design](/assets/research_schematic_aprofuob_1.png)
+
+Explanation of research for possible student positions can be found in [student_projects](/student_projects/).
+
+## Software and tutorials
+
+Can be found on:
+
+- The [TarziaResearchGroup GitHub](https://github.com/TarziaResearchGroup)
+- Code snippets and recipes are also available on [GitHub Gists](https://gist.github.com/andrewtarzia).
+- Blog posts on [Andrew's personal website](https://andrewtarzia.github.io/year-archive/).
 
 
 ## Structure generation of (supra)molecular materials
