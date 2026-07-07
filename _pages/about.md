@@ -9,6 +9,6 @@ redirect_from:
 
 Welcome to the website for the Tarzia Research Group working in the space of computational supramolecular chemistry at the [University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/chemistry/tarzia-andrew).
 
-If you are interested in a workshop or tutorial on using our software, please [email us](a.tarzia@bham.ac.uk)!
+If you are interested in a workshop or tutorial on using our software, please email us (email available [here](https://www.birmingham.ac.uk/staff/profiles/chemistry/tarzia-andrew))!
 
 View the code for this page in [about.md](https://github.com/TarziaResearchGroup/TarziaResearchGroup.github.io/tree/master/_pages).
