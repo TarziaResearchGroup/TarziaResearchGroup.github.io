@@ -4,7 +4,7 @@ title: "What we do"
 author_profile: true
 ---
 
-## Low-cost computational tools and robust software for decision-making
+# Low-cost computational tools and robust software for decision-making
 
 We are working toward bridging the gap between how computational tools are used in chemical and materials design processes.
 A significant part of this is the development of new software ecosystems that are FAIR and easy-to-use by researchers of various expertise.
@@ -25,6 +25,13 @@ Can be found on:
 ## Structure generation of (supra)molecular materials
 
 We continue to develop an ecosystem built around the work done by Andrew in [_stk_](https://github.com/lukasturcani/stk) for generating molecular and periodic structures. Find tutorials: [_stk_ tutorial videos](https://www.youtube.com/watch?v=mPr9D7nCQ84&list=PLIWYdPQ9hLzVngMF8NOkiApMtgc_ZwZgO) and [code](https://github.com/andrewtarzia/stk-examples).
+
+### Unbiased structure prediction
+
+Starting from only molecular building blocks, the unbiased approach (paper [here](https://onlinelibrary.wiley.com/doi/10.1002/anie.9267462)) in [_cgx_](https://github.com/andrewtarzia/CGExplore) allows researchers to generate self-assembled structures, without human intervention, to explore possible outcomes and guide experimental decisions.
+In the linked paper, we highlight through a series of case studies how to i) handle unexpected outcomes, ii) handle combintorial explosion with a genetic algorithm, iii) how to learn from an undesired outcome what changes you need to make to target a specific structure.
+The [_cgx_ recipes](https://cgexplore.readthedocs.io/en/latest/recipes.html) allow users to reproduce minimal examples of these processes.
+
 
 ### Using coarse-grained and minimal models
 
