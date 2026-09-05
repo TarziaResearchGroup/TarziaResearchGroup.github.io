@@ -42,9 +42,9 @@ author_profile: true
   <div id="container">
     <div id="left">
         <b>{{ forloop.rindex }}.</b>
-        {{ work.title }}<br>
         {{ work.authors }}<br>
-        <i>{{ work.journal }}</i>. ({{ work.date }}) <a href="{{ work.url }}">DOI</a>. <i>{{ work.other }}</i>
+        "{{ work.title }}"<br>
+        <i>{{ work.journal }}</i>, <b>{{work.volume}}</b>, {{work.pages}}, ({{ work.date }}) <a href="{{ work.url }}">DOI</a>. <i>{{ work.other }}</i>
         <br>
     </div>
     <div class="clear"></div>
