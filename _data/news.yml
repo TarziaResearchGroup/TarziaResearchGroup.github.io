@@ -14,13 +14,13 @@
     text: Andrew presented the recently published <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.9267462">unbiased structure prediction work</a> at ISMSC 2026 in Bordeaux. It was a very hot day, and the heat wave continues through the conference, but a great day with the excellent supramolecular community.
     date: 07/07/2026
     type: presentation
-    image: <img src="../images/talkimage.jpeg" alt="Andrew on stage" class="center" width="200">
+    image: <img src="../images/talkimage.jpeg" alt="Andrew on stage" class="image-right" width="400">
 
 -   title: Paper on unbiased structure prediction published in Angewandte
     text: Andrew <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.9267462">published</a> his work on unbiased structure prediction, where they used a series of case studies that push the boundaries of conventional cage structure prediction approaches and highlight the importance of the new method that is built into <a href="https://cgexplore.readthedocs.io/en/latest/index.html"><i>cgx</i></a>. From molecular building blocks to possible cage structures!
     date: 01/07/2026
     type: paper
-    image: <img src="../images/tocfig_final.png" alt="Paper TOC" class="center" width="200">
+    image: <img src="../images/tocfig_final.png" alt="Paper TOC" class="image-right" width="400">
 
 -   title: Andrew started at UoB!
     text: Andrew joined the School of Chemistry at the University of Birmingham as Assistant Professor of Computational Chemistry for Synthesis & Materials.
