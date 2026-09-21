@@ -15,7 +15,7 @@ redirect_from:
 {% for work in site.data.news %}
   <div id="container">
     <div id="left">
-        <b>{ work.title }</b> ({{ work.date }})<br>
+        <b>{{ work.title }}</b> ({{ work.date }})<br>
         <i>{{ work.journal }}</i>, <b>{{work.volume}}</b>, {{work.pages}},  <a href="{{ work.url }}">DOI</a>. 
         <br>
     </div>
