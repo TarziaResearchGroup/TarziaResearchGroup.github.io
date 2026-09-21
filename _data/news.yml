@@ -2,8 +2,17 @@
     text: Megan Lu (<a href="https://www.linkedin.com/in/meganklu/">LinkedIn</a>), an undergraduate from Dartmouth College, joins us for three months to complete a software development project to make cage modelling simpler!
     date: 21/09/2026
     type: staff
+    image:
 
 -   title: trg welcomes first group member!
     text: Tisha Sivakumar, who is an undergraduate Enhancement Scholar, will work on computational modelling of host guest chemistry with us for four weeks.
     date: 15/07/2026
     type: staff
+    image:
+
+-   title: Andrew presents at ISMSC 2026, Bordeaux
+    text: Andrew presented the recently published <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.9267462">unbiased structure prediction work</a> at ISMSC 2026 in Bordeaux. It was a very hot day, and the heat wave continues through the conference, but a great day with the 
+excellent supramolecular community.
+    date: 07/07/2026
+    type: presentation
+    image: ../images/talkimage.JPG
