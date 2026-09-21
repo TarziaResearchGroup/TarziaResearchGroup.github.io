@@ -15,3 +15,33 @@
     date: 07/07/2026
     type: presentation
     image: "../images/talkimage.JPG"
+
+-   title: Paper on unbiased structure prediction published in Angewandte
+    text: Andrew <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.9267462">published</a> his work on unbiased structure prediction, where they used a series of case studies that push the boundaries of conventional cage structure prediction approaches and highlight the importance of the new method that is built into <a href="https://cgexplore.readthedocs.io/en/latest/index.html"><i>cgx</i></a>. From molecular building blocks to possible cage structures!
+    date: 01/07/2026
+    type: paper
+    image: "../images/tocfig_final.png"
+
+-   title: Andrew started at UoB!
+    text: Andrew joined the School of Chemistry at the University of Birmingham as Assistant Professor of Computational Chemistry for Synthesis & Materials.
+    date: 01/08/2025
+    type: staff
+    image: 
+
+-   title: Article by PoliFlash on "Andrew's" new position
+    text: Article by PoliFlash about the new researchers brought to the Politecnico di Torino as "RTD-a"s (research fellows) via a young-researchers grant in the National Recovery and Resilience Plan (PNRR), of which I am one. This funding was awarded to researchers who achieved a Seal of Excellence in the 2021 Marie Curie round. <a href="https://www.polito.it/en/polito/communication-and-press-office/poliflash/young-researchers-pnrr-call-seven-young-postdocs-at-the">Article here.</a>
+    date: 08/05/2023
+    type: staff
+    image:
+
+-   title: Article on our paper with Jamie Lewis
+    text: A <a href="https://www.imperial.ac.uk/news/228233/quick-create-molecular-cages-could-revamp/">story</a> was published on our work on wonky cage design (<a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.202106721">paper</a>).
+    date: 16/08/2021
+    type: workshop
+    image:
+
+-   title: DigiFab 2021 Datathon / FoNS / Imperial College London
+    text: Andrew and a team of post-graduates organised and hosted a datathon on crystal structure prediction for 70+ attendees: <a href="https://www.imperial.ac.uk/news/220693/behind-the-scenes-make-virtual-multidisciplinary-datathon-happen/">Story</a>
+    date: 05/05/2021
+    type: workshop
+    image:
