@@ -9,13 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<h2>News</h2>
-<br>
-
 {% for work in site.data.news %}
   <div id="container">
     <div id="left">
-        <b>{{ work.title }}</b> ({{ work.date }})<br>
+        <h3>{{ work.title }}</h3> ({{ work.date }})<br>
         {{ work.text }}
         <br>
     </div>
